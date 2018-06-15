@@ -32,7 +32,8 @@ img {max-width: 100%;}
   color:#000;
 }
 
-.menu > li > a:hover {background-color: #f4f4f4;}
+.menu > li > a:hover {background-color: #f4f4f4;
+}
 
 .logo {
   display: block;
@@ -59,7 +60,7 @@ img {max-width: 100%;}
   cursor: pointer;
   display: inline-block;
   float: right;
-  padding: 24px 15px 0px 0px;
+  padding: 24px 15px 22px 20px;
   position: relative;
   user-select: none;
 }
