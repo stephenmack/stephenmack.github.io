@@ -32,9 +32,7 @@ img {max-width: 100%;}
   color:#000;
 }
 
-.menu > li > a:hover {
-  background-color: #f4f4f4;
-}
+.menu > li > a:hover {background-color: #f4f4f4;}
 
 .logo {
   display: block;
