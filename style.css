@@ -4,6 +4,7 @@ img {max-width: 100%;}
 #work {max-width: 900px;margin: auto;}
 #services > ul {list-style: none; margin: 0px; padding: 0px;}
 #services > ul > li {background: url('/images/check.png') no-repeat left top;padding-left: 44px;padding-top: 3px;}
+
 @media (min-width: 900px) {   
 #quoteForm {width: 100%;height: 1520px;}
 }
