@@ -40,10 +40,11 @@ img {max-width: 100%;}
   display: block;
   float: left;
   font-size: 24px;
-  padding: 10px 20px;
+  padding: 10px;
   text-decoration: none;
   color:#fff;
 }
+.logo > img {height: 24px; display: inline-block;opacity: .5; margin: 0px 4px 0px 0px;}
 
 /* menu */
 
@@ -59,7 +60,7 @@ img {max-width: 100%;}
   cursor: pointer;
   display: inline-block;
   float: right;
-  padding: 28px 20px;
+  padding: 20px 20px 0px 0px;
   position: relative;
   user-select: none;
 }
