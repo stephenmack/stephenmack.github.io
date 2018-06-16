@@ -155,7 +155,7 @@ img {max-width: 100%;}
     #services {padding: 0px 0px 40px;}
     #footer {width:280px; right:10px; bottom:10px; height: 40px; padding: 10px; box-sizing: border-box; left:auto; text-align: center; border-radius: 500px;}
     #footer > a > span {display: inline-block; font-weight: normal;}
-    #linkIn {width: 350px; margin: auto;}
+    #linkIn {width: 350px; margin: 0px auto 20px;}
 }
 @media only screen and (max-width: 768px) {
     .menu > li > a {background: #A61A1C}
