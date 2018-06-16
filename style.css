@@ -23,7 +23,7 @@ img {max-width: 100%;}
   transition: all .2s ease-out;
 }
 .header.scrolled {
-    background-color:rgba(198, 30, 33, 0.9);; transition: all .2s ease-out;
+    background-color:rgba(198, 30, 33, 0.9); transition: all .2s ease-out;
 }
 
 .menu {
@@ -41,7 +41,7 @@ img {max-width: 100%;}
   transition: all .2s ease-out;
 }
 
-.menu > li > a:hover {background-color: #000;}
+.menu > li > a:hover {background-color: rgba(0, 0, 0, 1);}
 
 .logo {
   display: block;
@@ -134,7 +134,7 @@ img {max-width: 100%;}
     float: left;
   }
   .header li a {
-    padding: 20px 30px;
+    padding: 20px;
   }
   .header .menu {
     clear: none;
