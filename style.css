@@ -142,6 +142,7 @@ img {max-width: 100%;}
     #services > ul {columns: auto 3;}
 
   #quoteForm {width: 100%;height: 1120px;}
+    #slogan {padding: 100px 0px 0px 0px; font-size: 42px;}
 }
 @media only screen and (max-width: 768px) {
     .menu > li > a {background: #A61A1C}
